@@ -1,0 +1,10 @@
+Bug ID: BUG-001
+Title: Login page crashes on invalid input
+Steps to Reproduce:
+1. Go to login page
+2. Enter special characters in username field
+3. Click login
+Expected: Proper error message
+Actual: Page crashes
+Severity: High
+Status: Open
